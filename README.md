@@ -6,7 +6,7 @@ A command-line tool written in Go to check a domain's:
 - ✅ SPF Records (Sender Policy)
 - ✅ DMARC Records (Email Authentication Policy)
 
-## Usage
+## Run
 
 ```bash
 go run main.go
